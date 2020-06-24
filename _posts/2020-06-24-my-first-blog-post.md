@@ -1,5 +1,5 @@
 ---
-title: "POOKIE-PANTS"
+title: "Today I made a github"
 date: 2020-06-24
 ---
-Pookie has pants!
+WOOT WOOT i made a **thing**!
